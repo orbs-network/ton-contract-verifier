@@ -69,6 +69,7 @@ function App() {
           style={{
             textAlign: "center",
             color: "white",
+            fontFamily: "Mulish-Bold, sans-serif",
           }}>
           Smart Contract Verifier
         </h2>
